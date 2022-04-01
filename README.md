@@ -1,5 +1,4 @@
-# Speech signal processing course (MADE 2022)
-Here I'll store all my homeworks  
+# Kontur test task NLP
+Here I'll strore all the stuff related to Kontyp internship
 
-Lab #1: [Jupyter Notebook](/lab1.ipynb)  
-Lab #2: [Jupyter Notebook](/lab2.ipynb)
+You can find task description and data in the "Task" folder
