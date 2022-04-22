@@ -1,4 +1,5 @@
-# Kontur test task NLP
-Here I'll strore all the stuff related to Kontyp internship
+# Fake news detector app for Kontur
 
-You can find task description and data in the "Task" folder
+If you interested in my research please check `konmyp.ipynb` it contains all the EDA and model prototyping
+
+You can find check the app here 
