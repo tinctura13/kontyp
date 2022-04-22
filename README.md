@@ -1,6 +1,6 @@
 # Kontur test task NLP
 
-Here I'll strore all the stuff related to Kontyp internship
+Here I'll strore all the stuff related to test task for internship in SKB Kontur 
 
 You can find task description and data in the "Task" folder
 
